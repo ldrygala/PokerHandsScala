@@ -1,4 +1,4 @@
-name := "PokerHands"
+name := "PokerHandsScala"
 
 version := "0.1"
 
